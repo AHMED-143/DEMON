@@ -1,2 +1,2 @@
 import TERMUX
-TERMUX.main()
+TERMUX.approval()
