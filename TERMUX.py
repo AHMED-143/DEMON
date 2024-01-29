@@ -1,1 +1,2 @@
 import TERMUX
+TERMUX.main()
