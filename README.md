@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Blaze.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/BLAZE-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/F4RH9NXXX.COM12)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-BLAZE.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/BLAZE-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/F4RH9NXXX.COM12)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
 
 
 
@@ -28,4 +28,4 @@
 - `python GREEN.py`
 
  ```Note : This Tools is Free File X Random Clone  Tools ```</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-ASHIK-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
