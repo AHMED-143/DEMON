@@ -27,5 +27,5 @@
 - `git pull`
 - `python GREEN.py`
 
- ```Note : This Tools is Free File X Random Clone  Tools ```</br>
+ ```Note : This Tools Is Free File X Random Clone  Tools ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
