@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-AHMED.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/AHMED-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/F4RH9NXXX.COM12)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-AHMED.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/AHMED-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/T4R0X)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
 
 
 
@@ -18,7 +18,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf FARHAN-GREEN`
-- `git clone https://github.com/FARHAN-143/GREEN.git`
+- `git clone https://github.com/AHMED-143/GREEN.git`
 - `cd FARHAN-GREEN`
 - `python GREEN.py`
      
