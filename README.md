@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-BLAZE.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/BLAZE-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/F4RH9NXXX.COM12)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-BLAZE.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/AHMED-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/F4RH9NXXX.COM12)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
 
 
 
@@ -18,12 +18,12 @@
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf GREEN`
-- `git clone https://github.com/BLAZE-143/GREEN.git`
-- `cd GREEN`
+- `git clone https://github.com/FARHAN-143/GREEN.git`
+- `cd FARHAN-GREEN`
 - `python GREEN.py`
      
  🖤_RUN SHORT COMMANDS_🖤
-- `cd GREEN`
+- `cd FARHAN-GREEN`
 - `git pull`
 - `python GREEN.py`
 
