@@ -17,7 +17,7 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf GREEN`
+- `rm -rf FARHAN-GREEN`
 - `git clone https://github.com/FARHAN-143/GREEN.git`
 - `cd FARHAN-GREEN`
 - `python GREEN.py`
