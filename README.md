@@ -17,15 +17,21 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf FARHAN-GREEN`
-- `git clone https://github.com/AHMED-143/GREEN.git`
-- `cd FARHAN-GREEN`
-- `python GREEN.py`
+- `rm -rf DEMON`
+- `git clone https://github.com/AHMED-143/DEMON.git`
+- `cd DEMON`
+- `python3 DEMON.py`
      
  🖤_RUN SHORT COMMANDS_🖤
-- `cd FARHAN-GREEN`
+- `cd DEMON `
 - `git pull`
-- `python GREEN.py`
+- `python DEMON.py`
 
+💉_32BIT USER RUN IT_💉
+- `cd DEMON `
+- `git pull `
+- `python3 FIRE.py `
+
+  
  ```Note : This Tools Is Free File X Random Clone  Tools ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
