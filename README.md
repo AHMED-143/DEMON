@@ -27,11 +27,6 @@
 - `git pull`
 - `python DEMON.py`
 
-💉_32BIT USER RUN IT_💉
-- `cd DEMON `
-- `git pull `
-- `python3 FIRE.py `
-
   
- ```Note : This Tools Is Free File X Random Clone  Tools ```</br>
+ ```NOTE : THIS TOOLD IS FREE FILE X RANDOM CLONE NO NEED PAY FOR USE THIS TOOLS ENJOY```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
