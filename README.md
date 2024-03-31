@@ -23,8 +23,8 @@ git clone https://github.com/AHMED-143/DEMON.git
 cd DEMON
 python3 DEMON.py
 ```
+🔄 _RUN SHORT COMMAND_ 🔄
 ```    
-🖤_RUN SHORT COMMANDS_🖤
 cd DEMON 
 git pull
 python DEMON.py
