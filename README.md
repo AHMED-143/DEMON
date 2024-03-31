@@ -11,22 +11,23 @@
 
 🔰 _FREE FILE X RANDOM CLONE_ 🔰
 
-- `pkg update`
-- `pkg upgrade`
-- `pkg install git`
-- `pkg install python`
-- `pip install requests`
-- `pip install mechanize`
-- `rm -rf DEMON`
-- `git clone https://github.com/AHMED-143/DEMON.git`
-- `cd DEMON`
-- `python3 DEMON.py`
-     
- 🖤_RUN SHORT COMMANDS_🖤
-- `cd DEMON `
-- `git pull`
-- `python DEMON.py`
-
-  
- ```NOTE : THIS TOOLD IS FREE FILE X RANDOM CLONE NO NEED PAY FOR USE THIS TOOLS ENJOY```</br>
+```
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+pip install requests
+pip install mechanize
+rm -rf DEMON
+git clone https://github.com/AHMED-143/DEMON.git
+cd DEMON
+python3 DEMON.py
+```
+```    
+🖤_RUN SHORT COMMANDS_🖤
+cd DEMON 
+git pull
+python DEMON.py
+```
+```NOTE : THIS TOOLD IS FREE FILE X RANDOM CLONE NO NEED PAY FOR USE THIS TOOLS ENJOY ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
