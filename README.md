@@ -9,9 +9,10 @@
 
 ## <b>installation</b>
 
-🔰 _FREE FILE X RANDOM CLONE_ 🔰
+🔰 𝗧𝗢𝗢𝗟𝗦 𝗙𝗘𝗔𝗧𝗨𝗥𝗘 🔰
+🖇️ 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘 𝗫 𝗥𝗔𝗡𝗗𝗢𝗠 🖇️
 
-⚠️ _TOOLS INSTALLATION_ ⚠️
+🪄 𝗧𝗢𝗢𝗟𝗦 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 🪄
 ```
 pkg update
 pkg upgrade
@@ -24,7 +25,7 @@ git clone https://github.com/AHMED-143/DEMON.git
 cd DEMON
 python3 DEMON.py
 ```
-🔄 _RUN SHORT COMMAND_ 🔄
+🔄 𝗥𝗨𝗡 𝗦𝗛𝗢𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 🔄
 ```    
 cd DEMON 
 git pull
