@@ -11,6 +11,7 @@
 
 🔰 _FREE FILE X RANDOM CLONE_ 🔰
 
+⚠️ _TOOLS INSTALLATION_ ⚠️
 ```
 pkg update
 pkg upgrade
